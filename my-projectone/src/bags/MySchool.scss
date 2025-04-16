@@ -1,0 +1,19 @@
+$myColor: red;
+$myhelement: purple;
+$myButton:orange;
+$mysize: 500px;
+$myh2element:pink;
+
+p{
+    color:$myColor;
+}
+h1{
+    background-color: $myhelement;
+    width: $mysize;
+}
+.myButton{
+    background-color: $myButton;
+}
+.myName{
+    background-color: $myh2element;
+}
